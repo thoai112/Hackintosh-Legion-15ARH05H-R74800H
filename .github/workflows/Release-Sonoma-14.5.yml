@@ -23,5 +23,5 @@ jobs:
     - name: Upload Release
       uses: ncipollo/release-action@v1.14.0
       with:
-          artifacts: "EFI.zip"
+          artifacts: "EFI-RELEASE.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
