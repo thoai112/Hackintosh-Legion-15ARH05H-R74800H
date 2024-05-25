@@ -131,6 +131,6 @@ Status ID:
 - [acidanthera](https://github.com/acidanthera) for developing OpenCore and a large number of important kexts.
 - [NootedInc](https://chefkissinc.github.io/) for developing NootedRed, adapting VoodooI2C for AMD, and the help from member [@VisualEhrmanntraut](https://github.com/VisualEhrmanntraut).
 - [W2725730722](https://github.com/W2725730722/Lenovo-R7000P-2020-Hackintosh) for the excellent work that this repository is based on, continuing to evolve and modify the provided Sonoma EFI.
--[jimlee2048](https://github.com/jimlee2048/Hackintosh-Lenovo-Legion-R7000P2020H) continuing to evolve and modify the provided Sonoma 14.4 EFI.
+- [jimlee2048](https://github.com/jimlee2048/Hackintosh-Lenovo-Legion-R7000P2020H) continuing to evolve and modify the provided Sonoma 14.4 EFI.
 - [Dortania](https://dortania.github.io/), [daliansky/OC-little](https://github.com/daliansky/OC-little), [5T33Z0/OC-Little-Translated](https://github.com/5T33Z0/OC-Little-Translated) and others for the detailed and comprehensive tutorials and guides.
 - And all the friends in the Hackintosh community who love to tinker and share, wishing everyone a fun time :)
